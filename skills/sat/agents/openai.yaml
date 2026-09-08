@@ -1,0 +1,4 @@
+interface:
+  display_name: "SAT"
+  short_description: "Manage private SAT records and tax workflows"
+  default_prompt: "Use $sat to inspect my SAT records and tax installment schedule."

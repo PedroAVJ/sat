@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 64 64" role="img" aria-label="Tax records">
+  <title>Tax records</title>
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#0055B8"/>
+  <g fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M18 12h21l9 9v31H18ZM38 12v11h10"/><path d="M25 30h15M25 37h15M25 44h8"/></g>
+</svg>

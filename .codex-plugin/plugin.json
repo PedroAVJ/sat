@@ -1,0 +1,40 @@
+{
+  "name": "sat",
+  "version": "0.1.3",
+  "description": "Manage private SAT records, annual returns, CFDIs, and tax installment schedules through a local store.",
+  "author": {
+    "name": "PedroAVJ",
+    "url": "https://github.com/PedroAVJ"
+  },
+  "homepage": "https://github.com/PedroAVJ/sat",
+  "repository": "https://github.com/PedroAVJ/sat",
+  "license": "MIT",
+  "keywords": [
+    "sat",
+    "mexico",
+    "tax",
+    "cfdi"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "SAT",
+    "shortDescription": "Manage private SAT records and workflows",
+    "longDescription": "Inspect private SAT records from a plugin-owned local store, extract annual-return installment schedules, and keep official documents, personal identifiers, credentials, and authored tax positions out of the distributable plugin package.",
+    "developerName": "PedroAVJ",
+    "category": "Finance",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": [
+      "Show my next SAT installment",
+      "Find my current SAT tax-status record",
+      "Review my working tax notes"
+    ],
+    "brandColor": "#0055B8",
+    "composerIcon": "./assets/sat-icon.svg",
+    "logo": "./assets/sat-icon.svg",
+    "screenshots": []
+  }
+}

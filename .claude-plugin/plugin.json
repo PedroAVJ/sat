@@ -1,0 +1,19 @@
+{
+  "name": "sat",
+  "version": "0.1.3",
+  "description": "Manage private SAT records, annual returns, CFDIs, and tax installment schedules through a local store.",
+  "author": {
+    "name": "PedroAVJ",
+    "url": "https://github.com/PedroAVJ"
+  },
+  "homepage": "https://github.com/PedroAVJ/sat",
+  "repository": "https://github.com/PedroAVJ/sat",
+  "license": "MIT",
+  "keywords": [
+    "sat",
+    "mexico",
+    "tax",
+    "cfdi"
+  ],
+  "skills": "./skills/"
+}
